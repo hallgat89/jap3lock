@@ -33,4 +33,4 @@ gen_background() {
 gen_background
 
 # Lock again with the new background
-i3lock -c $BGCOLOR -i $BG
+i3lock -c $BGCOLOR -t -i $BG
